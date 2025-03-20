@@ -1,5 +1,5 @@
 import { Router } from "express";
-import { addExpenses, getExpenses } from "../controllers/trackerController.js";
+import { addExpenses, deleteExpenses, getExpenses } from "../controllers/trackerController.js";
 
 const trackerRouter = Router;
 

@@ -38,7 +38,7 @@ export const getExpenses =async (req,res,next)=>{
     }
 }
 
-export const deleteExpensesExpenses =async (req,res,next)=>{
+export const deleteExpenses=async (req,res,next)=>{
 
     try {
 
